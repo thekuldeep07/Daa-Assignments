@@ -1,8 +1,8 @@
 # Submission of Assignment DAA Lab
 
-### Name :- Roop Kumar
+### Name :- Kuldeep Gangwar
 ### Section :- A
-### University Roll No :- 1961145
+### University Roll No :- 1961090
 #
 ### Lab Work
 <table>
